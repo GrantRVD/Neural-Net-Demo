@@ -1,5 +1,4 @@
-# Not sure this line is required for mybinder.org, but it's in all of the examples
-FROM andrewosh/binder-base
+FROM GrantRVD/Neural-Net-Demo
 
 MAINTAINER Grant R. Vousden-Dishington <grantrvd@gmail.com>
 
