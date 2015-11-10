@@ -1,4 +1,3 @@
-FROM GrantRVD/Neural-Net-Demo
 
 MAINTAINER Grant R. Vousden-Dishington <grantrvd@gmail.com>
 
